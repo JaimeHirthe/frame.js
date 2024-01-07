@@ -4,7 +4,7 @@
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
-  "theme_color": "#333",
+  "theme_color": " 333",
   "icons": [
     {
       "src": "./files/icon.png",
@@ -13,3 +13,4 @@
     }
   ]
 }
+ 
